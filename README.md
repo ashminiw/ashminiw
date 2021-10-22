@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashminiw
 - 👀 I’m interested in software development and data science
-- 🌱 I’m currently learning software engineering and UI
+- 🌱 I’m currently learning cloud computing and preparing for my AWS Certified Solutions Architect exam 
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: ash.weeerakoon@gmail.com
 
